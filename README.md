@@ -185,11 +185,58 @@ Partner with local credit card companies for credit card payment discounts (pric
 Include new payment options like Pix
 
 
-    8. Refund Rates
 
+   **8. Refund Rates**
     Refund rates are a huge loss of revenue for e-commerce platforms, because it indicates logistics and resources that are wasted.
     Let us analyse if there is a trend in refund rates across time, and if there is a reasoning behind these trends. 
+    <img width="614" height="338" alt="Screenshot 2025-07-23 at 3 14 57 PM" src="https://github.com/user-attachments/assets/6795f486-44d5-42cd-84a1-e1aa43db62de" />
     
+    Refund-related orders (i.e., those marked as canceled or unavailable) show spikes during the holiday seasons — especially November and December. There is year-round activity, but 
+    the volume peaks toward the end of each year, likely tied to Black Friday, Christmas, and increased seasonal demand. Let us dig deeper to find a relationship between customer 
+    reviews and these refunds
+   <img width="608" height="309" alt="Screenshot 2025-07-23 at 3 16 53 PM" src="https://github.com/user-attachments/assets/bb7aee1b-7067-4d8f-86fd-c242e1085dd3" />
+
+    Majority of reviews are positive, but spikes in negative reviews occur in specific months.
+    
+    Peaks observed in Feb, Nov, and Dec of 2017 & 2018.
+    These align with Brazilian events/holidays: Carnival, Black Friday, Christmas.
+    High order volumes during these periods likely strain logistics.
+    Results in delivery delays, stockouts, and service issues.
+    Indicates operational readiness lags behind demand surges.
+
+
+## Strategy 5
+1. Scalable Logistics: Partner with additional couriers and temporary warehouses during peak seasons.
+2. Inventory Buffering: Stock high-demand products in advance to prevent stockouts.
+3. Customer Communication: Set realistic delivery expectations and provide proactive delay updates.
+4. Performance Monitoring: Implement real-time tracking of delivery KPIs during high-volume months.
+5. Post-Peak Feedback Loop: Analyze reviews post-peak to identify gaps and refine future responses.
+
+   **9. Expansion beyond Sao Paulo**
+
+   <img width="415" height="433" alt="Screenshot 2025-07-23 at 3 21 45 PM" src="https://github.com/user-attachments/assets/73c1c6ef-6ca8-456c-b271-daf288910a64" />
+
+   Coastal eastern cities such as Alagoas and Sergipe, belong to the 2nd hotspot location for customer origin, with shipping ports such as porte de saupe (5th largest). 
+
+   Compared to SP (with Brazil’s busiest trade ports), the trade stress on industrial infrastructure on these cities are less (i.e. less congestion, less freight competition), 
+   therefore potentially less delivery delay.
+
+   Under-tapped business opportunity of bringing SP specialty beyond SP (potentially via intranational ship routes)
+
+## Strategy 6: Expand beyond Sao Paulo
+Rationale: Expand customer base and seller fleet can directly increase number of users of Olist platform.
+Direct approach towards increasing sales volume and revenue
+
+(a) Advertising of Olist platform in coastal Eastern cities [non-price strategy]
+Via social media advertisement, road banners, etc.
+Encourage local merchants to go online
+
+(b) Establish local Olist service centres to ensure quality service delivery
+Expansion comes with the need to maintain or better review scores (a measurement of service delivery standards)
+Partnership with well-related local provincial carrier services to ensure swift delivery within the cities [vendor selection]
+       
+
+
 
    
 
