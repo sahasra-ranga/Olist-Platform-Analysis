@@ -75,8 +75,7 @@ The following visualisations (apart from the word cloud) were done via Tableau
    Logistical & Infrastructure Challenges: 
    The disparity in late deliveries reflect differences in infrastructure, warehouse distribution, and delivery efficiency across states.
 
-   ## This brings us to our 1st strategy:
-   
+
    ## Strategy 1: Strengthen Sao Paulo (SP) Logistics
    Rationale: Centralization of user base and logistics partners 
    Most Olist sellers and customers originate from SP.
