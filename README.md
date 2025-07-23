@@ -25,8 +25,6 @@ The data used consists of 8 datasets, with a total row count of approximately 1,
 
 Prior to analysing the data, a series of data cleaning, checks and standardisation were done using Python libraries, primarily NumPy and Pandas. The codes can be found in the check.py and data_cleaning.py files.
 
-## Executive Summary
-
 ## Analysis
 The following visualisations (apart from the word cloud) were done via Tableau 
 
