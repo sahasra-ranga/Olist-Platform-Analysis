@@ -97,41 +97,101 @@ The following visualisations (apart from the word cloud) were done via Tableau
 
 
   **4.** **How do different product categories perform?**
-     - Which product categories have the greatest order volume?
-        <img width="899" height="385" alt="Screenshot 2025-07-23 at 2 34 53 PM" src="https://github.com/user-attachments/assets/8722a19e-92e7-4910-967f-f735f50c9eb8" />
-        
+     Which product categories have the greatest order volume?
+    <img width="899" height="385" alt="Screenshot 2025-07-23 at 2 34 53 PM" src="https://github.com/user-attachments/assets/8722a19e-92e7-4910-967f-f735f50c9eb8" />
+
+   Through this bar graph, we can see that there is a very strong home-focused consumer preference, with 4 out of the top 6 categories falling under this category.
+
+   <img width="706" height="306" alt="Screenshot 2025-07-23 at 2 38 29 PM" src="https://github.com/user-attachments/assets/710b02be-d64c-450f-a399-9297fd8e791c" />
+   Classification based on the graph
+   Premium Category: categories showing higher revenue positions than order count positions (watches_gifts, auto, cool_stuff) 
+
+   Volume-driven Category: bed_bath_table and sports_leisure derive their revenue strength primarily from high transaction counts rather than high unit values.
+
+   <img width="325" height="353" alt="Screenshot 2025-07-23 at 2 47 15 PM" src="https://github.com/user-attachments/assets/b265fd60-d947-4f71-9863-80e2614a6a38" />
+
+   When analysing the review score across product categories, we can see that product categories such as CDs DVDs musicals and fashion clothing perform best in terms of highest 
+   average review scores. To leverage upon this, Olist can perform increased platform exposure, or incentivise customers through bundle and loyalty discounts. On the other end of the 
+   stick, product categories such as security and diapers & hygiene perform poorest. Olist can improve by performing more stringent seller vetting processes and audits for listers in 
+   these categories. Additionally, further customer reviews can be conducted to identify the leading issues with these products.
+
+ **5. Repurchase rate of various products and their respective product categories**
+      Calculations used:
+      <img width="908" height="409" alt="Screenshot 2025-07-23 at 2 53 51 PM" src="https://github.com/user-attachments/assets/83e62b3a-58d8-4cac-aaf8-c4d3da49e39b" />
+      <img width="487" height="323" alt="Screenshot 2025-07-23 at 2 54 13 PM" src="https://github.com/user-attachments/assets/75011d46-81c6-4a8f-aeeb-b6e65173c12b" />
+
+      Let us look further into which product categories garner the greatest repurchase rates
+      
+      <img width="948" height="302" alt="Screenshot 2025-07-23 at 2 56 54 PM" src="https://github.com/user-attachments/assets/2564064e-42b2-4fb8-b343-1b21c969d989" />
+     
+      Top performers (5-7 range): Bed/bath, furniture, sports, bags/accessories, home wares
+      Mid-range performers (2-4 range): Home appliances, watches, garden tools, toys, perfumery
+      Low performers (<2 range): Most electronics, clothing items, and specialized categories
+
+## Strategy 2: Strategic Resource Allocation
+Top Performers (Repurchase Score: 5-7):
+ Categories like Bed & Bath, Furniture, Sports, Bags/Accessories, and Home Wares show strong customer loyalty and growth potential. Prioritize marketing and inventory resources to 
+ enhance visibility and capitalize on repeat business.
+
+Mid-Range Performers (Repurchase Score: 2-4):
+ Categories such as Home Appliances, Watches, Garden Tools, Toys, and Perfumery exhibit moderate repurchase behaviour. Focus on targeted marketing and product optimization to improve 
+ retention and increase purchase frequency.
+
+Low Performers (Repurchase Score: <2):
+ Categories like Electronics, Clothing, and Specialized Items show low repurchase rates. Assess the reasons behind this and consider refining offerings, exploring new acquisition 
+ strategies, or reducing investment in underperforming segments.
+
+  **6. Seasonal Trends**
+     How do sales volumes change across the top 5 selling product categories?
+     <img width="576" height="315" alt="Screenshot 2025-07-23 at 3 03 35 PM" src="https://github.com/user-attachments/assets/71b36c33-7a0f-4d9b-b8fc-ff385ada3747" />
+
+     The graph shows the quarterly trend of 5 most popular products. From the graph, we can observe:
+     Overall Declining Trend 
+     Seasonal Spike in Q2
+     Q4 Performance Drop
+     
+## Strategy 3: Dynamic Pricing Strategies
+Peak Demand (Q2 - Seasonal Spike):
+ 1. Increase prices during the seasonal spike in Q2 to maximize margins while maintaining demand.
+ 2. Off-Peak (Q4 - Performance Drop):
+    Offer strategic discounts in Q4 to maintain sales, using tiered or bundled promotions to boost volume and retain customers.
+3.  Overall Decline:
+    Gradually lower prices over time to stay competitive and manage declining demand.
+
+  **7. Payment Method Distribution**
+
+  <img width="475" height="360" alt="Screenshot 2025-07-23 at 3 08 29 PM" src="https://github.com/user-attachments/assets/ebd0ed00-d6af-46c7-8548-6e24a48a086c" />
+
+  We can see that a large majority (73.9%) of customers pay by credit card, with Boleto being the runner-up at just 19%.
+
+  Olist can capitalize on the psychology of credit card swiping via partnerships and provide longer deadline for Boleto payments to increase sales.
+
+  Additionally, Olist can ensure current payment interface and infrastructure includes new in-trend payment types like Pix. (proactive approach)
+
+## Strategy 4: Olist Platform Optimisation
+Rationale: The platform itself can influence customer purchase behaviour.
+
+Strategic fine-tuning of platform features can increase or create customer wants via boosted attractiveness and relevance of products (e.g. exploit network effect)
+Making purchases easy, simple and convenient can increase purchase frequencies.
+
+(a) AI-driven recommendation systems on application’s home page and order checkout page to enhance product delivery
+Use ML algorithms to suggest historical purchases and encourage repeat buying.
+Highlight top-selling products through banners and awards to leverage social proof. 
+Feature discounted off-season items to address product seasonality.
+Create product bundles combining high-volume and high-value items to increase average order value.
+
+(b) Seamless Payment & Pricing Strategies:
+Partner with local credit card companies for credit card payment discounts (price strategy)
+Include new payment options like Pix
 
 
+    8. Refund Rates
 
-                Through this bar graph, we can see a heavy home-focused consumer preference, with 4 of the top 6 categories being under this category.
-
-     - Which product categories bring in the greatest revenue?
-        <img width="706" height="306" alt="Screenshot 2025-07-23 at 2 38 29 PM" src="https://github.com/user-attachments/assets/16789677-a47e-4808-b384-3491cae505bf" />
-
-        Classification based on the graph:
-        Premium Category: categories showing higher revenue positions than order count positions (watches_gifts, auto, cool_stuff) 
-        Volume-driven Category: bed_bath_table and sports_leisure derive their revenue strength primarily from high transaction counts rather than high unit values.
-
-        
-
-
-
+    Refund rates are a huge loss of revenue for e-commerce platforms, because it indicates logistics and resources that are wasted.
+    Let us analyse if there is a trend in refund rates across time, and if there is a reasoning behind these trends. 
+    
 
    
-   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
 
