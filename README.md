@@ -1,11 +1,11 @@
-# Analysing the business data of Olist, a Brazillian based e-commerce platform to evaluate how their performance can be enhanced
+# Analysing the business data of Olist, a Brazilian based e-commerce platform to evaluate how their performance can be enhanced
 
 ## Background and Overview
-Olist is a Brazillian **e-commerce platform**, that connects small and medium-sized businesses with major marketplaces like Walmart and B2W. It acts as a bridge, enabling sellers to manage listings, inventory, orders, and shipments, while customers can browse and purchase products. Through this platform, costs are lowered for sellers and operations are streamlined due to the optimisation of supply chain management.
+Olist is a Brazilian **e-commerce platform** that connects small and medium-sized businesses with major marketplaces like Walmart and B2W. It acts as a bridge, enabling sellers to manage listings, inventory, orders, and shipments, while customers can browse and purchase products. Through this platform, costs are lowered for sellers and operations are streamlined due to the optimisation of supply chain management.
 
 This project analyses and evaluates 3 years of data, to answer this key question, **"How can Olist improve its business performance?"**.
 
-Insights are reccomendations are based on these categories:
+Insights are recommendations are based on these categories:
 1. Sales Trends 
 2. Customer Repurchase Rate 
 3. Yearly and Monthly Trends
@@ -108,7 +108,7 @@ The following visualisations (apart from the word cloud) were done via Tableau
 
    <img width="325" height="353" alt="Screenshot 2025-07-23 at 2 47 15 PM" src="https://github.com/user-attachments/assets/b265fd60-d947-4f71-9863-80e2614a6a38" />
 
-   When analysing the review score across product categories, we can see that product categories such as CDs DVDs musicals and fashion clothing perform best in terms of highest 
+   When analysing the review score across product categories, we can see that product categories such as CDs, DVDs, musicals and fashion clothing perform best in terms of highest 
    average review scores. To leverage upon this, Olist can perform increased platform exposure, or incentivise customers through bundle and loyalty discounts. On the other end of the 
    stick, product categories such as security and diapers & hygiene perform poorest. Olist can improve by performing more stringent seller vetting processes and audits for listers in 
    these categories. Additionally, further customer reviews can be conducted to identify the leading issues with these products.
@@ -162,7 +162,7 @@ Peak Demand (Q2 - Seasonal Spike):
 
   We can see that a large majority (73.9%) of customers pay by credit card, with Boleto being the runner-up at just 19%.
 
-  Olist can capitalize on the psychology of credit card swiping via partnerships and provide longer deadline for Boleto payments to increase sales.
+  Olist can capitalize on the psychology of credit card swiping via partnerships and provide longer deadlines for Boleto payments to increase sales.
 
   Additionally, Olist can ensure current payment interface and infrastructure includes new in-trend payment types like Pix. (proactive approach)
 
@@ -194,7 +194,7 @@ Include new payment options like Pix
     reviews and these refunds
    <img width="608" height="309" alt="Screenshot 2025-07-23 at 3 16 53 PM" src="https://github.com/user-attachments/assets/bb7aee1b-7067-4d8f-86fd-c242e1085dd3" />
 
-    Majority of reviews are positive, but spikes in negative reviews occur in specific months.
+    The majority of reviews are positive, but spikes in negative reviews occur in specific months.
     
     Peaks observed in Feb, Nov, and Dec of 2017 & 2018.
     These align with Brazilian events/holidays: Carnival, Black Friday, Christmas.
@@ -219,7 +219,7 @@ Include new payment options like Pix
    Compared to SP (with Brazil’s busiest trade ports), the trade stress on industrial infrastructure on these cities are less (i.e. less congestion, less freight competition), 
    therefore potentially less delivery delay.
 
-   Under-tapped business opportunity of bringing SP specialty beyond SP (potentially via intranational ship routes)
+   Under-tapped business opportunity of bringing SP specialty beyond SP (potentially via international ship routes)
 
 ## Strategy 6: Expand beyond Sao Paulo
 Rationale: Expand customer base and seller fleet can directly increase number of users of Olist platform.
